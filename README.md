@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/bottom-up-vat-photopolymerization-printer-explainer/
 
+Repository: https://github.com/mizcausevic-dev/bottom-up-vat-photopolymerization-printer-explainer
+
 ## What this is
 
 An interactive anatomy plate for Bottom-Up Vat Photopolymerization Printer. Play, scrub, or jump the five stages. The same frame always draws the same picture.
